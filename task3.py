@@ -1,0 +1,1 @@
+curl -sI --connect-timeout 10 -x http://127.0.0.1:7897 https://github.com | head -3

@@ -1,0 +1,7 @@
+# 第一阶段练习项目依赖
+# 安装方式：pip install -r requirements.txt
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+jupyter>=1.0
